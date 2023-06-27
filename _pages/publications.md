@@ -9,6 +9,7 @@ author_profile: true
 - Using submodularity in solving the robust bandwidth packing problem with queuing delay guarantees 
 - Scalable optimization approaches for microgrid operation under stochastic islanding and net load
 - Branch-and-cut algorithm for multiband robust discrete optimization problems
+- Linear programming based heuristic algorithms for tunnel assignment and reconfiguration in MPLS networks
 
 ## **Publications - International Journal**
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=j-bCTNgAAAAJ&hl=en)<br /><br />
