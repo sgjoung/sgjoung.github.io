@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-_전남대학교 산업공학과 정슬기_
+_전남대학교 산업공학과 정슬기_ :woman_teacher:
 - Assistant Professor in Department of Industrial Engineering, Chonnam National University, Republic of Korea
     - 2020.09 - present
 
