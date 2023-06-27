@@ -11,13 +11,13 @@ redirect_from:
 _전남대학교 산업공학과 정슬기_ 
 - Assistant Professor in Department of Industrial Engineering, Chonnam National University, Republic of Korea
     - 2020.09 - present
------
+
 ## **Research Interests**
 - Optimization under uncertainty (Robust optimization, Stochastic optimization, Data-driven optimization,...)
 - Robust discrete optimization and submodularity
 - Discrete optimization, Combinatorial optimization
 - Applications of OR
------
+
 ## **Education**
 - Ph.D. Degree in [Department of Industrial and Systems Engineering](https://ie.kaist.ac.kr/)
   - Korea Advanced Institute of Science and Technology (KAIST), Republic of Korea 
@@ -27,12 +27,12 @@ _전남대학교 산업공학과 정슬기_
 - Undergraduate Degree in Department of Industrial and Systems Engineering
   - Korea Advanced Institute of Science and Technology (KAIST), Republic of Korea
   - 2008.02 - 2012.08
------
+
 ## **Work Experiences**
 - Postdoctoral Researcher, 2018.03 - 2020.08
   - in Department of Industrial Engineering, Seoul National University, Republic of Korea
   - [Systems Optimization Lab](http://optimize.snu.ac.kr/), Advisor: [Prof. Kyungsik Lee](https://scholar.google.com/citations?user=rr_xEbgNRDcC&hl=en&oi=ao)
------
+
 ## **Honors & Awards**
 - 교육연구 우수 교수상, December 2021
   - College of Engineering, Chonnam National University
@@ -40,7 +40,7 @@ _전남대학교 산업공학과 정슬기_
   - The Korean Operations Research and Management Science Society (KORMS)
 - Outstanding Thesis Award 2018, February 2018
   - Department of Industrial and Systems Engineering, KAIST
------
+
 ## **Activities**
 - 대한산업공학회 교육본부, 2023 - present
 - 대한산업공학회 산업공학 위상강화 TF팀, October 2021 - October 2022
