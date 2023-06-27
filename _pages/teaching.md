@@ -14,8 +14,10 @@ author_profile: true
   - Problem Solving and Algorithm [IDE1011], Fall 2022, Spring 2023
   - Advanced Linear Programming [GR00928], Spring 2023
   - Advanced OR (Graduate School of Industry and Technology) [IID5004], Fall 2021
-  - Introduction to Decision Analysis (Graduate School of Industry and Technology) [IID5858], Spring 2022 
+  - Introduction to Decision Analysis (Graduate School of Industry and Technology) [IID5858], Spring 2022
+
 ## Soongsil University, Republic of Korea
   - Engineering Mathematics [2150693203], Fall 2018
+
 ## Hankuk University of Foreign Studies, Republic of Korea
   - Management Science [D03380202], Spring 2018
