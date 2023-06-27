@@ -4,15 +4,13 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
-**Working papers**
-=====
+# **Working papers**
 - Theoretical analysis of integer programming models for the two-dimensional two-staged knapsack problem
 - Using submodularity in solving the robust bandwidth packing problem with queuing delay guarantees 
 - Scalable optimization approaches for microgrid operation under stochastic islanding and net load
 - Branch-and-cut algorithm for multiband robust discrete optimization problems
 -----
-**Publications - International Journal**
-=====
+# **Publications - International Journal**
 You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u><br /><br />
 1. **S. Joung***. "A new sequential lifting of robust cover inequalities." _Optimization Letters_ 2023:1-17. https://doi.org/10.1007/s11590-023-02027-3 
 1. **S. Joung**, S. Oh* and K. Lee*. "Comparative analysis of linear programming relaxations for the robust knapsack problem." _Annals of Operations Research_ 323(1) 2023: 65-78. https://doi.org/10.1007/s10479-022-05161-w
@@ -26,16 +24,14 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 1. **S. Joung** and S. Park*. "Lifting of probabilistic cover inequalities." _Operations Research Letters_ 45(5) 2017: 513-518. https://doi.org/10.1016/j.orl.2017.08.006<br /><br />
 *: corresponding authors
 -----
-**Publications - Domestic Journal**
-=====
+# **Publications - Domestic Journal**
 1. 이현태, 윤범, 조예림, 이수현, 정슬기*, "정수계획법을 활용한 시차를 고려한 온라인 학회 스케줄링 방법 제안." _경영과학_ 40(1) 2023: 61-70. https://doi.org/10.7737/KMSR.2023.40.1.061
 1. 전홍배, 신기태, 정슬기*, "정량 분석을 통해 살펴본 산업공학 전공의 현황." _대한산업공학회지_ 48(3) 2022: 265-270. https://doi.org/10.7232/JKIIE.2022.48.3.265
 (대한산업공학회 산업공학 위상강화 TF팀, 2021-2022)
 1. 정슬기*, "k-부분보형 부등식과 불확실성을 고려한 이산최적화 문제." _한국경영과학회지_ 47(2) 2022: 25-34. https://doi.org/10.7737/JKORMS.2022.47.2.025
 (전남대학교 교내 과제 2021-2158)
 -----
-**Research projects**
-=====
+# **Research projects**
 - 한국전력기술, January 2023 - December 2023
   - "불확실성 기반 해상풍력단지 정비계획 모델링 및 최적화 기술자문"
 - National Research Foundation of Korea, March 2021 - February 2024
@@ -56,8 +52,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
   - in Optimization and Analysis Lab
   - "Vessel arrival scheduling considering uncertainty"
 -----
-**Conference presentations**
-=====
+# **Conference presentations**
 - **S. Joung**. "Branch-and-cut for the multiband robust optimization problems." Conference of the Korean Institute of Industrial Engineers. in Jeju, Republic of Korea. May 2023.
 - **S. Joung**. "A lifting algorithm for robust cover inequalities." Conference of Korean Operations Research and Management Science Society. in Jeju, Republic of Korea. June 2022.
 - **S. Joung**, J. Lee and K. Lee. "An improved approximation scheme for the stochastic shortest path problem." Conference of the Korean Institute of Industrial Engineers. in Seoul, Republic of Korea. November 2021.
