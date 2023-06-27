@@ -11,7 +11,7 @@ author_profile: true
   - Systems Optimization [IDE6003], Spring 2021-2023
   - Matrix and Linear Algebra [IDE2015], Spring 2021
   - Introduction to Algorithms [IDE6002], Fall 2021
-  - Problem Solving and Algorithm [IDE1011], Fall 2022
+  - Problem Solving and Algorithm [IDE1011], Fall 2022, Spring 2023
   - Advanced Linear Programming [GR00928], Spring 2023
   - Advanced OR (Graduate School of Industry and Technology) [IID5004], Fall 2021
   - Introduction to Decision Analysis (Graduate School of Industry and Technology) [IID5858], Spring 2022 
