@@ -26,7 +26,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 *: corresponding authors
 
 ## **Publications - Domestic Journal**
-1. 이현태, 윤범, 조예림, 이수현, 정슬기*, "정수계획법을 활용한 시차를 고려한 온라인 학회 스케줄링 방법 제안." _경영과학_ 40(1) 2023: 61-70. [https://doi.org/10.7737/KMSR.2023.40.1.061](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002949249)
+1. 이현태, 윤범, 조예림, 이수현, 정슬기*, "정수계획법을 활용한 시차를 고려한 온라인 학회 스케줄링 방법 제안." _경영과학_ 40(1) 2023: 61-70. [https://doi.org/10.7737/KMSR.2023.40.1.061](https://doi.org/10.7737/KMSR.2023.40.1.061)
 1. 전홍배, 신기태, 정슬기*, "정량 분석을 통해 살펴본 산업공학 전공의 현황." _대한산업공학회지_ 48(3) 2022: 265-270. [https://doi.org/10.7232/JKIIE.2022.48.3.265](https://doi.org/10.7232/JKIIE.2022.48.3.265)
 (대한산업공학회 산업공학 위상강화 TF팀, 2021-2022)
 1. 정슬기*, "k-부분보형 부등식과 불확실성을 고려한 이산최적화 문제." _한국경영과학회지_ 47(2) 2022: 25-34. [https://doi.org/10.7737/JKORMS.2022.47.2.025](https://doi.org/10.7737/JKORMS.2022.47.2.025)
