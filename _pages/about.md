@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-_전남대학교 산업공학과 정슬기_ :woman_teacher:
+_전남대학교 산업공학과 정슬기_ 
 - Assistant Professor in Department of Industrial Engineering, Chonnam National University, Republic of Korea
     - 2020.09 - present
-
+-----
 
 **Research Interests**
 =====
@@ -19,7 +19,7 @@ _전남대학교 산업공학과 정슬기_ :woman_teacher:
 - Robust discrete optimization and submodularity
 - Discrete optimization, Combinatorial optimization
 - Applications of OR
-
+-----
 
 **Education**
 =====
@@ -31,14 +31,14 @@ _전남대학교 산업공학과 정슬기_ :woman_teacher:
 - Undergraduate Degree in Department of Industrial and Systems Engineering
   - Korea Advanced Institute of Science and Technology (KAIST), Republic of Korea
   - 2008.02 - 2012.08
-
+-----
 
 **Work Experiences**
 =====
 - Postdoctoral Researcher, 2018.03 - 2020.08
   - in Department of Industrial Engineering, Seoul National University, Republic of Korea
   - [Systems Optimization Lab](http://optimize.snu.ac.kr/), Advisor: [Prof. Kyungsik Lee](https://scholar.google.com/citations?user=rr_xEbgNRDcC&hl=en&oi=ao)
-
+-----
 
 **Honors & Awards**
 =====
@@ -48,7 +48,7 @@ _전남대학교 산업공학과 정슬기_ :woman_teacher:
   - The Korean Operations Research and Management Science Society (KORMS)
 - Outstanding Thesis Award 2018, February 2018
   - Department of Industrial and Systems Engineering, KAIST
-
+-----
 
 **Activities**
 =====
