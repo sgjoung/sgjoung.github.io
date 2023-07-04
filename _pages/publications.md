@@ -13,16 +13,16 @@ author_profile: true
 
 ## **Publications - International Journal**
 (You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=j-bCTNgAAAAJ&hl=en))<br />
-1. **S. Joung***. "A new sequential lifting of robust cover inequalities." _Optimization Letters_ 2023:1-17. [https://doi.org/10.1007/s11590-023-02027-3](https://rdcu.be/dfrrN)
-1. **S. Joung**, S. Oh* and K. Lee*. "Comparative analysis of linear programming relaxations for the robust knapsack problem." _Annals of Operations Research_ 323(1) 2023: 65-78. [https://doi.org/10.1007/s10479-022-05161-w](https://doi.org/10.1007/s10479-022-05161-w)
-1. K. Seo, **S. Joung**, C. Lee and S. Park*. "A closest Benders cut selection scheme for accelerating the Benders decomposition algorithm." _INFORMS Journal on Computing_ 34(5) 2022: 2804-2827. [https://doi.org/10.1287/ijoc.2022.1207](https://doi.org/10.1287/ijoc.2022.1207)
-1. J. Lee, **S. Joung*** and K. Lee*. "A fully polynomial time approximation scheme for the probability maximizing shortest path problem." _European Journal of Operational Research_ 300(1) 2022: 35-45. [https://doi.org/10.1016/j.ejor.2021.10.018](https://doi.org/10.1016/j.ejor.2021.10.018)
-1. **S. Joung** and S. Park*. "Robust mixed 0-1 programming and submodularity." _INFORMS Journal on Optimization_ 3(2) 2021: 183-199. [https://doi.org/10.1287/ijoo.2019.0042](https://doi.org/10.1287/ijoo.2019.0042)
-1. **S. Joung** and K. Lee*. "Robust optimization-based heuristic algorithm for the chance-constrained knapsack problem using submodularity." _Optimization Letters_ 14(1) 2020: 101-113. [https://doi.org/10.1007/s11590-019-01445-6](https://doi.org/10.1007/s11590-019-01445-6)
-1. **S. Joung**, J. Lim, C. Lee*, J. Shin, I. Jung and S. Park*. "A linear programming based heuristic algorithm for bandwidth packing problem with scheduling." _Journal of the Operational Research Society_ 71(2) 2020: 250-263. [https://doi.org/10.1080/01605682.2018.1542959](https://doi.org/10.1080/01605682.2018.1542959)
-1. SJ. Kwon, **S. Joung** and K.Lee*. "Comparative analysis of pattern-based models for the two-dimensional two-stage guillotine cutting stock problem." _Computers & Operations Research_ 109 2019: 159-169. [https://doi.org/10.1016/j.cor.2019.05.005](https://doi.org/10.1016/j.cor.2019.05.005)
-1. **S. Joung** and S. Park*. "Lifting and separation of robust cover inequalities." _Networks_ 72(2) 2018: 272-305. [https://doi.org/10.1002/net.21829](https://doi.org/10.1002/net.21829)
-1. **S. Joung** and S. Park*. "Lifting of probabilistic cover inequalities." _Operations Research Letters_ 45(5) 2017: 513-518. [https://doi.org/10.1016/j.orl.2017.08.006](https://doi.org/10.1016/j.orl.2017.08.006)<br /><br />
+1. **S. Joung**\*. "A new sequential lifting of robust cover inequalities." _Optimization Letters_ 2023:1-17. [https://doi.org/10.1007/s11590-023-02027-3](https://rdcu.be/dfrrN)
+1. **S. Joung**, S. Oh\* and K. Lee\*. "Comparative analysis of linear programming relaxations for the robust knapsack problem." _Annals of Operations Research_ 323(1) 2023: 65-78. [https://doi.org/10.1007/s10479-022-05161-w](https://doi.org/10.1007/s10479-022-05161-w)
+1. K. Seo, **S. Joung**, C. Lee and S. Park\*. "A closest Benders cut selection scheme for accelerating the Benders decomposition algorithm." _INFORMS Journal on Computing_ 34(5) 2022: 2804-2827. [https://doi.org/10.1287/ijoc.2022.1207](https://doi.org/10.1287/ijoc.2022.1207)
+1. J. Lee, **S. Joung**\* and K. Lee\*. "A fully polynomial time approximation scheme for the probability maximizing shortest path problem." _European Journal of Operational Research_ 300(1) 2022: 35-45. [https://doi.org/10.1016/j.ejor.2021.10.018](https://doi.org/10.1016/j.ejor.2021.10.018)
+1. **S. Joung** and S. Park\*. "Robust mixed 0-1 programming and submodularity." _INFORMS Journal on Optimization_ 3(2) 2021: 183-199. [https://doi.org/10.1287/ijoo.2019.0042](https://doi.org/10.1287/ijoo.2019.0042)
+1. **S. Joung** and K. Lee\*. "Robust optimization-based heuristic algorithm for the chance-constrained knapsack problem using submodularity." _Optimization Letters_ 14(1) 2020: 101-113. [https://doi.org/10.1007/s11590-019-01445-6](https://doi.org/10.1007/s11590-019-01445-6)
+1. **S. Joung**, J. Lim, C. Lee\*, J. Shin, I. Jung and S. Park\*. "A linear programming based heuristic algorithm for bandwidth packing problem with scheduling." _Journal of the Operational Research Society_ 71(2) 2020: 250-263. [https://doi.org/10.1080/01605682.2018.1542959](https://doi.org/10.1080/01605682.2018.1542959)
+1. SJ. Kwon, **S. Joung** and K.Lee\*. "Comparative analysis of pattern-based models for the two-dimensional two-stage guillotine cutting stock problem." _Computers & Operations Research_ 109 2019: 159-169. [https://doi.org/10.1016/j.cor.2019.05.005](https://doi.org/10.1016/j.cor.2019.05.005)
+1. **S. Joung** and S. Park\*. "Lifting and separation of robust cover inequalities." _Networks_ 72(2) 2018: 272-305. [https://doi.org/10.1002/net.21829](https://doi.org/10.1002/net.21829)
+1. **S. Joung** and S. Park\*. "Lifting of probabilistic cover inequalities." _Operations Research Letters_ 45(5) 2017: 513-518. [https://doi.org/10.1016/j.orl.2017.08.006](https://doi.org/10.1016/j.orl.2017.08.006)<br /><br />
 *: corresponding authors
 
 ## **Publications - Domestic Journal**
