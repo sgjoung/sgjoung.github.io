@@ -2,8 +2,11 @@
 
 url: http://localhost:4000
 
+# Analytics
 analytics:
-  provider: false
+  provider               : "google" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : "G-08N6F6EFQP"
 
 comments:
   disqus:
