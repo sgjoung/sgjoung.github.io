@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## **Working papers**
+- An exact approach for the Stackelberg knapsack problem with weight selection
 - Theoretical analysis of integer programming models for the two-dimensional two-staged knapsack problem
 - Scalable optimization approaches for microgrid operation under stochastic islanding and net load
 - Branch-and-cut algorithm for multiband robust discrete optimization problems
