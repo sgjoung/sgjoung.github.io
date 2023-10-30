@@ -9,7 +9,6 @@ author_profile: true
 - Theoretical analysis of integer programming models for the two-dimensional two-staged knapsack problem
 - Scalable optimization approaches for microgrid operation under stochastic islanding and net load
 - Branch-and-cut algorithm for multiband robust discrete optimization problems
-- Linear programming based heuristic algorithms for tunnel assignment and reconfiguration in MPLS networks
 
 ## **Publications - International Journal**
 (You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=j-bCTNgAAAAJ&hl=en))<br />
