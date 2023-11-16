@@ -35,6 +35,7 @@ author_profile: true
 ## **Research projects**
 - 한국전력기술, January 2023 - December 2023
   - "불확실성 기반 해상풍력단지 정비계획 모델링 및 최적화 기술자문"
+  - 2023.08 특허 출원 ("후류 영향을 고려한 해상풍력단지 정비 스케줄링 시스템 및 방법", 정슬기/이현태/이남경/송정욱, 10-2023-0105711)
 - National Research Foundation of Korea, March 2021 - February 2024
   - "Decision making under uncertainty and k-submodularity", PI
 - National Research Foundation of Korea, May 2021 - February 2027
