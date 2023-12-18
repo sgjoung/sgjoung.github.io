@@ -54,15 +54,3 @@ author_profile: true
   - in Optimization and Analysis Lab
   - "Vessel arrival scheduling considering uncertainty"
 
-## **Conference presentations**
-- **S. Joung**. "Branch-and-cut for the multiband robust optimization problems." Conference of the Korean Institute of Industrial Engineers. in Jeju, Republic of Korea. May 2023.
-- **S. Joung**. "A lifting algorithm for robust cover inequalities." Conference of Korean Operations Research and Management Science Society. in Jeju, Republic of Korea. June 2022.
-- **S. Joung**, J. Lee and K. Lee. "An improved approximation scheme for the stochastic shortest path problem." Conference of the Korean Institute of Industrial Engineers. in Seoul, Republic of Korea. November 2021.
-- **S. Joung** and K. Lee. "A heuristic algorithm for the chance-constrained knapsack problem using submodularity." EURO 2019. in Dublin, Ireland. June 2019. 
-- J. Lee, **S. Joung** and K.Lee, "An approximation algorithm for a probability maximization knapsack problem.", EURO 2019. in Dublin, Ireland. June 2019.
-- J. Lee, **S. Joung** and K.Lee, "An approximation scheme for a probability maximizing combinatorial optimization problem.", Conference of the Korean Institute of Industrial Engineers. in Gwangju, Republic of Korea. April 2019.
-- J. Lim, **S. Joung**, C. Lee, J. Shin, I. Jung and S. Park, "A heuristic algorithm for bandwidth packing problem with flow scheduling for inter-data centers.", Conference of Korean Operations Research and Management Science Society. in Seoul, Republic of Korea. October 2018.
-- **S. Joung** and S. Park. "Robust MIP problems and submodular inequalities." Conference of the Korean Institute of Industrial Engineers. in Gyeongju, Republic of Korea. April 2018.
-- **S. Joung** and S. Park. "Cardinality constrained robust MIP and submodular polyhedron." 2017 INFORMS Annual Meeting. in Houston, Texas, U.S.A. October 2017.
-- **S. Joung** and S. Park. "A lifting algorithm for probabilistic cover inequalities." Conference of the Korean Institute of Industrial Engineers. in Jeju, Republic of Korea. April 2016.
-- **S. Joung** and S. Park. "Lifting and separation of robust cover inequalities." Conference of the Korean Institute of Industrial Engineers. in Jeju, Republic of Korea. April 2015.
