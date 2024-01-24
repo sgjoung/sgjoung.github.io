@@ -11,7 +11,7 @@ author_profile: true
 - Branch-and-cut algorithm for multiband robust discrete optimization problems
 
 ## **Publications - International Journal**
-(You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=j-bCTNgAAAAJ&hl=en))<br />
+(You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=j-bCTNgAAAAJ&view_op=list_works&sortby=pubdate))<br />
 1. **S. Joung**\*. "Using submodularity in solving the robust bandwidth packing problem with queuing delay guarantees." _Computers & Operations Research_ 160 2023: 106374. [https://doi.org/10.1016/j.cor.2023.106374](https://doi.org/10.1016/j.cor.2023.106374)
 1. **S. Joung**\*. "A new sequential lifting of robust cover inequalities." _Optimization Letters_ 2023: 1-17. [https://doi.org/10.1007/s11590-023-02027-3](https://rdcu.be/dfrrN)
 1. **S. Joung**, S. Oh\* and K. Lee\*. "Comparative analysis of linear programming relaxations for the robust knapsack problem." _Annals of Operations Research_ 323(1) 2023: 65-78. [https://doi.org/10.1007/s10479-022-05161-w](https://doi.org/10.1007/s10479-022-05161-w)
