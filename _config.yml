@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "S.Joung / OptLab in CNU"
+title                    : "S.Joung"
 title_separator          : "-"
 name                     : &name "Seulgi Joung"
-description              : &description "Assistant professor in CNU"
+description              : &description "Assistant professor in Ajou Univ"
 url                      : "https://sgjoung.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sgjoung/sgjoung.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Seulgi Joung"
   avatar           : "profile2.jpg"
-  bio              : "Assistant professor in Chonnam National University"
-  location         : "Gwangju, Republic of Korea"
+  bio              : "Assistant professor in Ajou University"
+  location         : "Suwon-si, Gyeonggi-do, Republic of Korea"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=j-bCTNgAAAAJ&hl=en"
-  email            : "sgjoung@jnu.ac.kr"
+  email            : "sgjoung@ajou.ac.kr"
   researchgate     : "https://www.researchgate.net/profile/Seulgi-Joung" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
