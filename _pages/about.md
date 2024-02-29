@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-_아주대학교 산업공학과 정슬기_ 
 - Assistant Professor in Department of Industrial Engineering, Ajou University, Republic of Korea
     - 2024.03 - present
 - CV ([pdf](http://sgjoung.github.io/files/CV_JSG.pdf), updated 2023.08)
