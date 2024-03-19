@@ -40,7 +40,7 @@ author_profile: true
   - 2023.08 특허 출원 ("후류 영향을 고려한 해상풍력단지 정비 스케줄링 시스템 및 방법", 정슬기/이현태/이남경/송정욱, 10-2023-0105711)
 - National Research Foundation of Korea, March 2021 - February 2024
   - "Decision making under uncertainty and k-submodularity", PI
-- National Research Foundation of Korea, May 2021 - February 2027
+- National Research Foundation of Korea, May 2021 - February 2024
   - 인공지능 혁신공유대학 사업단, 전남대학교 산업공학과 참여교수
   - "문제해결과 알고리즘" 공유교과목 운영
   - "AI 알고리즘" 공동운영교과목 개선
