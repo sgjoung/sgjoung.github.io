@@ -33,6 +33,9 @@ author_profile: true
 1. 정슬기*, "k-부분보형 부등식과 불확실성을 고려한 이산최적화 문제." _한국경영과학회지_ 47(2) 2022: 25-34. [https://doi.org/10.7737/JKORMS.2022.47.2.025](https://doi.org/10.7737/JKORMS.2022.47.2.025)
 (전남대학교 교내 과제 2021-2158)
 
+## **Patents**
+- "후류 영향을 고려한 해상풍력단지 정비 스케줄링 시스템 및 방법", 정슬기/이현태/이남경/송정욱, 10-2023-0105711, 2023.08 출원
+
 ## **Seminars**
 - "수리 최적화와 제조 응용 사례", 삼성전자 생산기술연구소, March 2024
 
@@ -41,7 +44,6 @@ author_profile: true
   - "해상풍력단지 정비 스케줄링 최적화 현안 기술자문"  
 - 한국전력기술, January 2023 - December 2023
   - "불확실성 기반 해상풍력단지 정비계획 모델링 및 최적화 기술자문"
-  - 2023.08 특허 출원 ("후류 영향을 고려한 해상풍력단지 정비 스케줄링 시스템 및 방법", 정슬기/이현태/이남경/송정욱, 10-2023-0105711)
 - National Research Foundation of Korea, March 2021 - February 2024
   - "Decision making under uncertainty and k-submodularity", PI
 - National Research Foundation of Korea, May 2021 - February 2024
