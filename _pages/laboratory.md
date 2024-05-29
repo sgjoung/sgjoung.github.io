@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "OptLab"
+title: "OR Lab"
 permalink: /laboratory/
 author_profile: true
 ---
 ## **Members** 🧑‍🎓
+- 학부연구생 (2024-현재): 이영기, 정윤수
 - 석사과정 (2023-현재): 이현태
 - 학부연구생 (2023-2023): 김다녕
 - 학부연구생 (2022-2023): 고시현, 박지응, 박현수, 한승원 
