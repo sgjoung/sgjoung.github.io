@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## **Working papers**
+- A wake-induced two-phase planning framework for offshore wind farm maintenance with a stochastic mixed-integer program
 - An exact approach for the Stackelberg knapsack problem with weight selection
 - Theoretical analysis of integer programming models for the two-dimensional two-staged knapsack problem
 - Scalable optimization approaches for microgrid operation under stochastic islanding and net load
