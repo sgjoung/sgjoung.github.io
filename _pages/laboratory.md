@@ -1,9 +1,15 @@
 ---
 layout: archive
-title: "OR Lab"
+title: "OR Lab in AJOU UNIV"
 permalink: /laboratory/
 author_profile: true
 ---
+
+<img width="603" alt="image" src="https://github.com/sgjoung/sgjoung.github.io/assets/99176458/5f5963d5-c63f-4533-a392-25c8c11e942b">
+
+## **Professor** :blush:
+- 정슬기 (아주대학교 산업공학과) 
+  
 ## **Members** 🧑‍🎓
 - 학부연구생 (2024-현재): 이영기, 정윤수
 - 석사과정 (2023-현재): 이현태
