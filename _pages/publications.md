@@ -43,7 +43,7 @@ author_profile: true
 ## **Research projects**
 - 정보통신기획평가원, March 2024 - December 2024, 참여교수
   - 인공지능융합혁신인재양성(아주대학교) 1차년도
-- 한국전력기술, January 2024 - October 2024
+- 한국전력기술, January 2024 - November 2024
   - "해상풍력단지 정비 스케줄링 최적화 현안 기술자문"  
 - 한국전력기술, January 2023 - December 2023
   - "불확실성 기반 해상풍력단지 정비계획 모델링 및 최적화 기술자문"
