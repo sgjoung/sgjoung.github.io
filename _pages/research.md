@@ -1,4 +1,9 @@
-
+---
+layout: archive
+title: "Publications"
+permalink: /research/
+author_profile: true
+---
 ## **Publications - International Journal**
 (You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=j-bCTNgAAAAJ&view_op=list_works&sortby=pubdate))<br />
 1. **S. Joung**\*. "A new sequential lifting of robust cover inequalities." _Optimization Letters_ 18 2024: 925–941. [https://doi.org/10.1007/s11590-023-02027-3](https://rdcu.be/dfrrN)
