@@ -10,7 +10,6 @@ redirect_from:
 
 - Assistant Professor in Department of Industrial Engineering, Ajou University, Republic of Korea
     - 2024.03 - present
-- CV ([pdf](http://sgjoung.github.io/files/CV_JSG.pdf), updated 2024.03)
 
 ## **Research Interests**
 - Optimization under uncertainty (Robust optimization, Stochastic optimization, Data-driven optimization,...)
