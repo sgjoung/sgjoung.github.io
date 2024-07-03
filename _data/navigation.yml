@@ -3,14 +3,14 @@ main:
   - title: "Home"
     url: /
 
+  - title: "Laboratory"
+    url: /laboratory/
+
   - title: "Publications"
     url: /research/
     
   - title: "Research"
     url: /publications/
     
-  - title: "Laboratory"
-    url: /laboratory/
-
   - title: "Contact"
     url: /contact/
