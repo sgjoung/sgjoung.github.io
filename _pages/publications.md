@@ -8,7 +8,6 @@ author_profile: true
 - A wake-induced two-phase planning framework for offshore wind farm maintenance with a stochastic mixed-integer program
 - An exact approach for the Stackelberg knapsack problem with weight selection
 - Theoretical analysis of integer programming models for the two-dimensional two-staged knapsack problem
-- Scalable optimization approaches for microgrid operation under stochastic islanding and net load
 - Branch-and-cut algorithm for multiband robust discrete optimization problems
 - Linear Programming based Heuristic Algorithms for Tunnel Assignment and Reconfiguration in MPLS Networks
 
