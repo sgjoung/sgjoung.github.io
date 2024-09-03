@@ -9,7 +9,6 @@ author_profile: true
 - An exact approach for the Stackelberg knapsack problem with weight selection
 - Theoretical analysis of integer programming models for the two-dimensional two-staged knapsack problem
 - Branch-and-cut algorithm for multiband robust discrete optimization problems
-- Linear Programming based Heuristic Algorithms for Tunnel Assignment and Reconfiguration in MPLS Networks
 
 ## **Patents**
 - "후류 영향을 고려한 해상풍력단지 정비 스케줄링 시스템 및 방법", 정슬기/이현태/이남경/송정욱, 10-2023-0105711, 2023.08 출원
