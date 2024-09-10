@@ -7,10 +7,10 @@ main:
     url: /laboratory/
 
   - title: "Publications"
-    url: /research/
+    url: /publications/
     
   - title: "Research"
-    url: /publications/
+    url: /research/
     
   - title: "Contact"
     url: /contact/
