@@ -20,6 +20,7 @@ author_profile: true
 ## **News**
 - (Oct 2024) 대한산업공학회 & LG CNS <최적화 그랜드 챌린지 2024> 본선 진출 및 16위 기록 🏆
   - 참여: 이영기, 정윤수
+  - [본선 순위 증서](https://github.com/sgjoung/sgjoung.github.io/tree/master/files/oat.pdf)
 - (Oct 2024) "후류 영향을 고려한 해상풍력단지 정비 스케줄링 시스템 및 방법" 특허 등록
   - 발명자: 정슬기/이현태/이남경/송정욱
   - 등록번호: 1027220320000
