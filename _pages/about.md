@@ -43,6 +43,6 @@ redirect_from:
   - Department of Industrial and Systems Engineering, KAIST
 
 ## **Activities**
-- 대한산업공학회 교육본부, 2023 - present
+- 대한산업공학회 교육본부, 2023 - 2024
 - 대한산업공학회 산업공학 위상강화 TF팀, October 2021 - October 2022
 - 전남대학교 데이터사이언스대학원 개원준비단 위원, October 2021 - February 2022
