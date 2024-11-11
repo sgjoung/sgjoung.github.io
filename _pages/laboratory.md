@@ -20,7 +20,7 @@ author_profile: true
 ## **News**
 - (Nov 2024) 한국경영과학회 AI/OR Business Challenge **최우수상**/**우수상** 수상 🏆🏆
   - 참여: 곽찬희, 윤승규/이영기, 정윤수, 가소은
-    ![korms2024](https://github.com/user-attachments/assets/bdd8522c-53ea-4c2f-8259-36554bfa4430)
+    ![korms2024](https://github.com/user-attachments/assets/f90c1006-c998-44ad-aa80-d4f9d80cb0f4)
 - (Oct 2024) 대한산업공학회 & LG CNS <최적화 그랜드 챌린지 2024> 본선 진출 및 378팀 중 16위 기록 
   - 참여: 이영기, 정윤수
   - [본선 순위 증서](http://sgjoung.github.io/files/oat.pdf)
