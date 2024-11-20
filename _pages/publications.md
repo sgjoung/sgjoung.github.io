@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## **Publications - International Journal**
 (You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=j-bCTNgAAAAJ&view_op=list_works&sortby=pubdate))<br />
-1. N. Lee$\text{}^\dagger$, H. Lee $^\dagger$, **S. Joung**\*. "A wake-induced two-phase planning framework for offshore wind farm maintenance with stochastic mixed-integer programming." accepted in _Applied Energy_ 2024.
+1. N. Lee $^\dagger$, H. Lee $^\dagger$, **S. Joung**\*. "A wake-induced two-phase planning framework for offshore wind farm maintenance with stochastic mixed-integer programming." accepted in _Applied Energy_ 2024.
 1. S. Kang, J. Kim\*, **S. Joung**, K. Lee\*. "Theoretical analysis of integer programming models for the two-dimensional two-staged knapsack problem." accepted in _Optimization Letters_ 2024.
 1. **S. Joung**, J. Ryu, SH. Kwon, J. Shin and S. Park\*. "Linear Programming based Heuristic Algorithms for Tunnel Assignment and Reconfiguration in MPLS Networks." _Telecommunication Systems_ 2024: 1-23. [https://doi.org/10.1007/s11235-024-01217-3](https://doi.org/10.1007/s11235-024-01217-3)
 1. J. Lee, **S. Joung** and K. Lee\*. "Scalable optimization approaches for microgrid operation under stochastic islanding and net load." _Applied Energy_ 374 2024: 124040. [https://doi.org/10.1016/j.apenergy.2024.124040](https://doi.org/10.1016/j.apenergy.2024.124040)
