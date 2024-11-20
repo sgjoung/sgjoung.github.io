@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 ## **Working papers**
-- A wake-induced two-phase planning framework for offshore wind farm maintenance with stochastic mixed-integer programming
 - An exact approach for the Stackelberg knapsack problem with weight selection
 - Branch-and-cut algorithm for multiband robust discrete optimization problems
 
