@@ -4,9 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-## **Working papers**
-- An exact approach for the Stackelberg knapsack problem with weight selection
-- Branch-and-cut algorithm for multiband robust discrete optimization problems
 
 ## **Patents**
 - "후류 영향을 고려한 해상풍력단지 정비 스케줄링 시스템 및 방법", 정슬기/이현태/이남경/송정욱, 1027220320000, 2024.10 등록
