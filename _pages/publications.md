@@ -21,7 +21,7 @@ author_profile: true
 1. SJ. Kwon, **S. Joung** and K.Lee\*. "Comparative analysis of pattern-based models for the two-dimensional two-stage guillotine cutting stock problem." _Computers & Operations Research_ 109 2019: 159-169. [https://doi.org/10.1016/j.cor.2019.05.005](https://doi.org/10.1016/j.cor.2019.05.005)
 1. **S. Joung** and S. Park\*. "Lifting and separation of robust cover inequalities." _Networks_ 72(2) 2018: 272-305. [https://doi.org/10.1002/net.21829](https://doi.org/10.1002/net.21829)
 1. **S. Joung** and S. Park\*. "Lifting of probabilistic cover inequalities." _Operations Research Letters_ 45(5) 2017: 513-518. [https://doi.org/10.1016/j.orl.2017.08.006](https://doi.org/10.1016/j.orl.2017.08.006)<br /><br />
-*: corresponding authors, †: equally contributed authors
+*: corresponding authors, <sup>†</sup>: equally contributed authors
 
 ## **Publications - Domestic Journal**
 1. 이현태, 윤범, 조예림, 이수현, 정슬기*, "정수계획법을 활용한 시차를 고려한 온라인 학회 스케줄링 방법 제안." _경영과학_ 40(1) 2023: 61-70. [https://doi.org/10.7737/KMSR.2023.40.1.061](https://doi.org/10.7737/KMSR.2023.40.1.061)
