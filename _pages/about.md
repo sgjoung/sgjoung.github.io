@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-- Assistant Professor in Department of Industrial Engineering, Ajou University, Republic of Korea
-    - 2024.03 - present
+- Associate Professor in Department of Industrial Engineering, Ajou University, Republic of Korea
+    - 2025.03 - present
 
 ## **Research Interests**
 - Optimization under uncertainty (Robust optimization, Stochastic optimization, Data-driven optimization,...)
@@ -28,6 +28,8 @@ redirect_from:
   - 2008.02 - 2012.08
 
 ## **Work Experiences**
+- Assistant Professor, 2024.03 - 2025.02
+  - in Department of Industrial Engineering, Ajou University, Republic of Korea
 - Assistant Professor, 2020.09 - 2024.02
   - in Department of Industrial Enginerring, Chonnam National University, Republic of Korea  
 - Postdoctoral Researcher, 2018.03 - 2020.08
@@ -43,6 +45,7 @@ redirect_from:
   - Department of Industrial and Systems Engineering, KAIST
 
 ## **Activities**
-- 대한산업공학회 교육본부, 2023 - 2024
+- 한국경영과학회 학술본부 이사, 2025
+- 대한산업공학회 교육본부 이사, 2023 - 2024
 - 대한산업공학회 산업공학 위상강화 TF팀, October 2021 - October 2022
 - 전남대학교 데이터사이언스대학원 개원준비단 위원, October 2021 - February 2022
