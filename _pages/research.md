@@ -18,6 +18,8 @@ author_profile: true
 - "수리 최적화와 제조 응용 사례", 삼성전자 생산기술연구소, March 2024
 
 ## **Research projects**
+- National Research Foundation of Korea, March 2025 - February 2028
+  - "Study on learning-based decomposition techniques as global optimization algorithms for nonlinear green location and routing problems", PI
 - 한국전력기술, January 2025 - November 2025
   - "해상풍력단지 설계 및 운영 최적화 기술자문"
 - National Research Foundation of Korea, September 2024 - August 2027
