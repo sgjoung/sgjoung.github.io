@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## **Publications - International Journal**
 (You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=j-bCTNgAAAAJ&view_op=list_works&sortby=pubdate))<br />
-1. Y. Lee, K. Seo, **S. Joung** and S. Park\*. "An exact approach for the Stackelberg knapsack problem with weight selection", accepted in _Journal of Global Optimization_ 2025.
+1. Y. Lee, K. Seo, **S. Joung** and S. Park\*. "An exact approach for the Stackelberg knapsack problem with weight selection.", accepted in _Journal of Global Optimization_ 2025.
 1. N. Lee<sup>†</sup>, H. Lee<sup>†</sup> and **S. Joung**\*. "A wake-induced two-phase planning framework for offshore wind farm maintenance with stochastic mixed-integer programming." _Applied Energy_ 380 2025: 124976. [https://doi.org/10.1016/j.apenergy.2024.124976](https://doi.org/10.1016/j.apenergy.2024.124976)
 1. S. Kang, J. Kim\*, **S. Joung** and K. Lee\*. "Theoretical analysis of integer programming models for the two-dimensional two-staged knapsack problem." _Optimization Letters_ 2024: 1-32. [https://doi.org/10.1007/s11590-024-02164-3](https://doi.org/10.1007/s11590-024-02164-3)
 1. **S. Joung**, J. Ryu, SH. Kwon, J. Shin and S. Park\*. "Linear programming based heuristic algorithms for tunnel assignment and reconfiguration in MPLS networks." _Telecommunication Systems_ 87 2024: 991-1013. [https://doi.org/10.1007/s11235-024-01217-3](https://doi.org/10.1007/s11235-024-01217-3)
