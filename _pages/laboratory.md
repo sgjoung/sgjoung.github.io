@@ -13,13 +13,16 @@ author_profile: true
 - 석사과정 (2025-현재): 이영기, 박정훈
 - 학부연구생 (2025): 박정훈
 - 학부연구생 (2024-2025): 이영기, 정윤수, 곽찬희, 윤승규, 가소은
-- 석사과정 (2023-현재): 이현태
+- 석사과정 (2023-2025): 이현태
 - 학부연구생 (2023-2023): 김다녕
 - 학부연구생 (2022-2023): 고시현, 박지응, 박현수, 한승원 
 - 학부연구생 (2021-2022): 윤범, 이수현, 이현태, 조예림
 
 -----
 ## **News** 
+- (Nov 2025) 2025 공학교육 캡스톤디자인 경진대회 **우수상** 수상 🏆
+  - 주제: 홍수 피해자 탐색을 위한 트럭-드론 협업 수색 시스템
+  - 참여: <ins>정윤수, 윤승규</ins>
 - (Dec 2024) SCI(2023 JCR 상위 6.2%) 논문 게재 🎊
   - 이남경<sup>1</sup>, <ins>이현태</ins><sup>1</sup>, 정슬기*, "A wake-induced two-phase planning framework for offshore wind farm maintenance with stochastic mixed-integer programming." Applied Energy 380 2025: 124976.
 - (Nov 2024) 한국경영과학회 AI/OR Business Challenge **최우수상**/**우수상** 수상 🏆🏆
