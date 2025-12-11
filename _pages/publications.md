@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## **Publications - International Journal**
 (You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=j-bCTNgAAAAJ&view_op=list_works&sortby=pubdate))<br />
-1. **S. Joung**\*. "Branch-and-cut algorithm for multiband robust discrete optimization problems", _Optimization Letters_ 2025: 1-36. [https://doi.org/10.1007/s11590-025-02263-9](https://doi.org/10.1007/s11590-025-02263-9)
+1. **S. Joung**\*. "Branch-and-cut algorithm for multiband robust discrete optimization problems", _Optimization Letters_ 2025: 1-36. [https://doi.org/10.1007/s11590-025-02263-9](https://rdcu.be/eT1M6)
 1. Y. Lee, K. Seo, **S. Joung** and S. Park\*. "An exact approach for the Stackelberg knapsack problem with weight selection.", _Journal of Global Optimization_ 92 2025: 973–991. [https://doi.org/10.1007/s10898-025-01488-3](https://doi.org/10.1007/s10898-025-01488-3)
 1. N. Lee<sup>†</sup>, H. Lee<sup>†</sup> and **S. Joung**\*. "A wake-induced two-phase planning framework for offshore wind farm maintenance with stochastic mixed-integer programming." _Applied Energy_ 380 2025: 124976. [https://doi.org/10.1016/j.apenergy.2024.124976](https://doi.org/10.1016/j.apenergy.2024.124976)
 1. S. Kang, J. Kim\*, **S. Joung** and K. Lee\*. "Theoretical analysis of integer programming models for the two-dimensional two-staged knapsack problem." _Optimization Letters_ 19 2025: 1171–1202. [https://doi.org/10.1007/s11590-024-02164-3](https://doi.org/10.1007/s11590-024-02164-3)
