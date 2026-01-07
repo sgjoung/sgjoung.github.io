@@ -19,6 +19,8 @@ author_profile: true
 - "수리 최적화와 제조 응용 사례", 삼성전자 생산기술연구소, March 2024
 
 ## **Research projects**
+- 정석물류학술재단 학술연구지원사업, January 2026 - December 2026
+  - "Research on Logistics and Operational Optimization using Robo-taxis: a Novel Crowdsource-based Delivery Service and Robo-taxi Rebalancing/Arc Routing Optimization Problems", 공동연구원
 - National Research Foundation of Korea (우수신진연구), March 2025 - February 2028
   - "Study on learning-based decomposition techniques as global optimization algorithms for nonlinear green location and routing problems", 연구책임자
 - 한국전력기술, January 2025 - November 2025
