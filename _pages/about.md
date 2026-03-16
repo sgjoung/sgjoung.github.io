@@ -37,15 +37,17 @@ redirect_from:
   - [Systems Optimization Lab](http://optimize.snu.ac.kr/), Advisor: [Prof. Kyungsik Lee](https://scholar.google.com/citations?user=rr_xEbgNRDcC&hl=en&oi=ao)
 
 ## **Honors & Awards**
+- 최우수 강의상, February 2026
+  - 아주대학교 공과대학   
 - 교육연구 우수 교수상, December 2021
-  - College of Engineering, Chonnam National University
+  - 전남대학교 공과대학
 - Best Ph.D. Thesis Award 2018, October 2018
   - The Korean Operations Research and Management Science Society (KORMS)
 - Outstanding Thesis Award 2018, February 2018
   - Department of Industrial and Systems Engineering, KAIST
 
 ## **Activities**
-- 한국경영과학회 학술본부 이사, 2025
+- 한국경영과학회 학술본부 이사, 2025 - 2026
 - 대한산업공학회 교육본부 이사, 2023 - 2024
 - 대한산업공학회 산업공학 위상강화 TF팀, October 2021 - October 2022
 - 전남대학교 데이터사이언스대학원 개원준비단 위원, October 2021 - February 2022
