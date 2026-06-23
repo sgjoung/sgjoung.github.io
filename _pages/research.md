@@ -20,6 +20,8 @@ author_profile: true
 - "수리 최적화와 제조 응용 사례", 삼성전자 생산기술연구소, March 2024
 
 ## **Research projects**
+- 한국전력기술, April 2026 - November 2026
+  - "해상풍력단지 배치 설계 최적화 기술자문"
 - 정석물류학술재단 학술연구지원사업, January 2026 - December 2026
   - "Research on Logistics and Operational Optimization using Robo-taxis: a Novel Crowdsource-based Delivery Service and Robo-taxi Rebalancing/Arc Routing Optimization Problems", 공동연구원
 - National Research Foundation of Korea (우수신진연구), March 2025 - February 2028
