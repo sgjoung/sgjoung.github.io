@@ -47,7 +47,7 @@ redirect_from:
   - Department of Industrial and Systems Engineering, KAIST
 
 ## **Activities**
+- [Optimization Grand Challenge](https://optichallenge.com/) 운영위원, 2025-2026
 - 한국경영과학회 학술본부 이사, 2025 - 2026
-- Optimization Grand Challenge 운영위원, 2025-2026
 - 대한산업공학회 교육본부 이사, 2023 - 2024
 - 대한산업공학회 산업공학 위상강화 TF팀, October 2021 - October 2022
