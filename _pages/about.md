@@ -37,6 +37,8 @@ redirect_from:
   - [Systems Optimization Lab](http://optimize.snu.ac.kr/), Advisor: [Prof. Kyungsik Lee](https://scholar.google.com/citations?user=rr_xEbgNRDcC&hl=en&oi=ao)
 
 ## **Honors & Awards**
+- 차동완젊은경영과학자상, October 2026
+  - The Korean Operations Research and Management Science Society (KORMS)
 - 최우수 강의상, February 2026
   - 아주대학교 공과대학   
 - 교육연구 우수 교수상, December 2021
